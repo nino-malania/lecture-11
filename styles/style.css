@@ -1,0 +1,262 @@
+.container {
+    max-width: 1150px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.header h5 {
+    color: #5863E3;
+    font-size: 17px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 57px;
+}
+
+.header h2 {
+    color: #000;
+    font-size: 49px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 371px;
+    margin-top: 7px;
+}
+
+.form-container {
+    margin-top: 57px;
+}
+
+form {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+textarea {
+    width: 756px;
+    height: 298px;
+    border: 2px solid rgba(212, 211, 211, 0.30);
+    background: #F8F8F8;
+    padding: 23px 21px;
+}
+
+input[type="text"] {
+    width: 100%;
+    height: 59px;
+    border: 2px solid rgba(212, 211, 211, 0.30);
+    background: #F8F8F8;
+    margin-bottom: 20px;
+    padding: 21px 19px;
+}
+
+input[type="button"] {
+    width: 100%;
+    height: 59px;
+    border: 2px solid #5968F4;
+    background: #5968F4;
+    color: #FBFBFF;
+    font-size: 14px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.inputs {
+    width: 370px;
+}
+
+.icon {
+    height: 68px;
+    width: 68px;
+    border-radius: 50%;
+    background: #5968F4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa-envelope {
+    font-size: 38px;
+    color: #344188;
+}
+
+.fa-phone {
+    font-size: 38px;
+    color: #344188;
+}
+
+.fa-location-dot {
+    font-size: 38px;
+    color: #344188;
+}
+
+
+.contact-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 51px;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contact h3 {
+    color: #4E4D54;
+    font-size: 20px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.contact p {
+    color: #99999A;
+    font-size: 15px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.sec-2 {
+    margin-top: 100px;
+}
+
+.sec-2 h2{
+    width: 548px;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 53px;
+    margin-bottom: 100px;
+}
+
+footer {
+    width: 100%;
+    height: 372px;
+    flex-shrink: 0;
+    background-color: black;
+}
+
+.parent {
+    display: flex;
+}
+
+.child1 {
+    width: 295px;
+    margin-left: 143px;
+    margin-top: 63px;
+}
+
+.child1 h1 {
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.child1 p {
+    color: #99999A;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 23px;
+}
+
+.icon2 {
+    margin-top: 27px;
+}
+
+.child2 {
+    margin-left: 191px;
+    margin-top: 63px;
+
+}
+
+.child2 h2 {
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.child2 h3{
+    color: #5863E3;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 20px;
+}
+
+.child3 {
+    margin-left: 69px;
+    margin-top: 63px;
+
+}
+
+.child3 h2 {
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.child3 h3 {
+    color: #5863E3;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 20px;
+}
+
+.child4 {
+    margin-left: 108px;
+    margin-top: 63px;
+}
+
+.child4 h2 {
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.email {
+    display: flex;
+    margin-top: 25px;
+}
+
+.email p {
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 14px; 
+}
